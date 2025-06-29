@@ -1,2 +1,2 @@
-Calculator App
-Just styled form the beggining to enchance my CSS style.
+> Calculator App
+I've been styling from the beginning to enhance my CSS skills.
